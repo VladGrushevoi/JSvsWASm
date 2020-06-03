@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8df3914c-eada-4aa6-9528-1cab9df73980" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assembly/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/assembly/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/optimized.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/build/optimized.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/optimized.wasm.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/optimized.wasm.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/optimized.wat" beforeDir="false" afterPath="$PROJECT_DIR$/build/optimized.wat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/untouched.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/build/untouched.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/untouched.wasm.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/untouched.wasm.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/untouched.wat" beforeDir="false" afterPath="$PROJECT_DIR$/build/untouched.wat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1coj4lrCWZH9GlV9L2v7D4JHROY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8df3914c-eada-4aa6-9528-1cab9df73980" name="Default Changelist" comment="" />
+      <created>1591201650877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591201650877</updated>
+      <workItem from="1591201653669" duration="135000" />
+      <workItem from="1591202411570" duration="3875000" />
+      <workItem from="1591206300511" duration="2716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591205894241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591205894241" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591206301684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591206301684" />
+  </component>
+</project>
